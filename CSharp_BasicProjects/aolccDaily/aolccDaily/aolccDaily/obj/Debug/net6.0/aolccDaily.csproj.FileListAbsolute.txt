@@ -1,0 +1,15 @@
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\bin\Debug\net6.0\aolccDaily.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\bin\Debug\net6.0\aolccDaily.deps.json
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\bin\Debug\net6.0\aolccDaily.runtimeconfig.json
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\bin\Debug\net6.0\aolccDaily.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\bin\Debug\net6.0\aolccDaily.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\obj\Debug\net6.0\aolccDaily.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\obj\Debug\net6.0\aolccDaily.GeneratedMSBuildEditorConfig.editorconfig
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\obj\Debug\net6.0\aolccDaily.AssemblyInfoInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\obj\Debug\net6.0\aolccDaily.AssemblyInfo.cs
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\obj\Debug\net6.0\aolccDaily.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\obj\Debug\net6.0\aolccDaily.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\obj\Debug\net6.0\refint\aolccDaily.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\obj\Debug\net6.0\aolccDaily.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\obj\Debug\net6.0\aolccDaily.genruntimeconfig.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\CSharp_BasicProjects\aolccDaily\aolccDaily\aolccDaily\obj\Debug\net6.0\ref\aolccDaily.dll
