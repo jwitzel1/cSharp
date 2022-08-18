@@ -1,0 +1,15 @@
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\bin\Debug\net6.0\shipping.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\bin\Debug\net6.0\shipping.deps.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\bin\Debug\net6.0\shipping.runtimeconfig.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\bin\Debug\net6.0\shipping.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\bin\Debug\net6.0\shipping.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\obj\Debug\net6.0\shipping.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\obj\Debug\net6.0\shipping.GeneratedMSBuildEditorConfig.editorconfig
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\obj\Debug\net6.0\shipping.AssemblyInfoInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\obj\Debug\net6.0\shipping.AssemblyInfo.cs
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\obj\Debug\net6.0\shipping.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\obj\Debug\net6.0\shipping.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\obj\Debug\net6.0\refint\shipping.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\obj\Debug\net6.0\shipping.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\obj\Debug\net6.0\shipping.genruntimeconfig.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\shipping\shipping\shipping\obj\Debug\net6.0\ref\shipping.dll
