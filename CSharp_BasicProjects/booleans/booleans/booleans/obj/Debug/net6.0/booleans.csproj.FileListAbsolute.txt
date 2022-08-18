@@ -1,0 +1,15 @@
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\obj\Debug\net6.0\booleans.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\obj\Debug\net6.0\booleans.GeneratedMSBuildEditorConfig.editorconfig
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\obj\Debug\net6.0\booleans.AssemblyInfoInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\obj\Debug\net6.0\booleans.AssemblyInfo.cs
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\obj\Debug\net6.0\booleans.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\bin\Debug\net6.0\booleans.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\bin\Debug\net6.0\booleans.deps.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\bin\Debug\net6.0\booleans.runtimeconfig.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\bin\Debug\net6.0\booleans.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\bin\Debug\net6.0\booleans.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\obj\Debug\net6.0\booleans.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\obj\Debug\net6.0\refint\booleans.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\obj\Debug\net6.0\booleans.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\obj\Debug\net6.0\booleans.genruntimeconfig.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\booleans\booleans\booleans\obj\Debug\net6.0\ref\booleans.dll
