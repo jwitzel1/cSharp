@@ -19,11 +19,13 @@ namespace stringing
             Console.WriteLine("hmmm.... I guess that would be better like this: \n" + upperString + "\n");
 
             StringBuilder sbText = new StringBuilder();
-            sbText.Append("/n/n /t A paragraph starts with a tab in. /n");
-            sbText.Append("Line breaks are common for stylizing. /n");
+            sbText.Append("\n\n \t A paragraph starts with a tab in. \n");
+            sbText.Append("Line breaks are common for stylizing. \n");
             sbText.Append("But not necessary, technically.");
             sbText.Append("Each sentence can follow the last...");
-            sbText.Append("And we are done. Allowing double line for start of next paragraph. /n/n");
+            sbText.Append("And we are done. Allowing double line for start of next paragraph. \n\n");
+
+            Console.WriteLine(sbText.ToString());
 
             Console.ReadLine();
 
