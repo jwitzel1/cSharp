@@ -1,0 +1,15 @@
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\bin\Debug\net6.0\loops.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\bin\Debug\net6.0\loops.deps.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\bin\Debug\net6.0\loops.runtimeconfig.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\bin\Debug\net6.0\loops.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\bin\Debug\net6.0\loops.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\obj\Debug\net6.0\loops.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\obj\Debug\net6.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\obj\Debug\net6.0\loops.AssemblyInfoInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\obj\Debug\net6.0\loops.AssemblyInfo.cs
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\obj\Debug\net6.0\loops.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\obj\Debug\net6.0\loops.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\obj\Debug\net6.0\refint\loops.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\obj\Debug\net6.0\loops.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\obj\Debug\net6.0\loops.genruntimeconfig.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\loops\loops\obj\Debug\net6.0\ref\loops.dll
