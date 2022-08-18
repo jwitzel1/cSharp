@@ -1,0 +1,15 @@
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\bin\Debug\net6.0\salaries.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\bin\Debug\net6.0\salaries.deps.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\bin\Debug\net6.0\salaries.runtimeconfig.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\bin\Debug\net6.0\salaries.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\bin\Debug\net6.0\salaries.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\obj\Debug\net6.0\salaries.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\obj\Debug\net6.0\salaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\obj\Debug\net6.0\salaries.AssemblyInfoInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\obj\Debug\net6.0\salaries.AssemblyInfo.cs
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\obj\Debug\net6.0\salaries.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\obj\Debug\net6.0\salaries.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\obj\Debug\net6.0\refint\salaries.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\obj\Debug\net6.0\salaries.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\obj\Debug\net6.0\salaries.genruntimeconfig.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\salary\salaries\salaries\obj\Debug\net6.0\ref\salaries.dll

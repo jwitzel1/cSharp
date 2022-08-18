@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\salary\\salaries\\salaries\\salaries.csproj",
+      "projectName": "salaries",
+      "projectPath": "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\salary\\salaries\\salaries\\salaries.csproj",
       "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-      "outputPath": "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\salary\\salaries\\salaries\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
