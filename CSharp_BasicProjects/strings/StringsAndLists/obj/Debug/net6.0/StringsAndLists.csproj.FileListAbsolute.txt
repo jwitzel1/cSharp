@@ -1,0 +1,15 @@
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\obj\Debug\net6.0\StringsAndLists.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\obj\Debug\net6.0\StringsAndLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\obj\Debug\net6.0\StringsAndLists.AssemblyInfoInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\obj\Debug\net6.0\StringsAndLists.AssemblyInfo.cs
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\obj\Debug\net6.0\StringsAndLists.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\bin\Debug\net6.0\StringsAndLists.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\bin\Debug\net6.0\StringsAndLists.deps.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\bin\Debug\net6.0\StringsAndLists.runtimeconfig.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\bin\Debug\net6.0\StringsAndLists.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\bin\Debug\net6.0\StringsAndLists.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\obj\Debug\net6.0\StringsAndLists.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\obj\Debug\net6.0\refint\StringsAndLists.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\obj\Debug\net6.0\StringsAndLists.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\obj\Debug\net6.0\StringsAndLists.genruntimeconfig.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\strings\StringsAndLists\obj\Debug\net6.0\ref\StringsAndLists.dll
