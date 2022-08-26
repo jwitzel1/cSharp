@@ -1,0 +1,15 @@
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\bin\Debug\net6.0\listsArraysToo.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\bin\Debug\net6.0\listsArraysToo.deps.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\bin\Debug\net6.0\listsArraysToo.runtimeconfig.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\bin\Debug\net6.0\listsArraysToo.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\bin\Debug\net6.0\listsArraysToo.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\obj\Debug\net6.0\listsArraysToo.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\obj\Debug\net6.0\listsArraysToo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\obj\Debug\net6.0\listsArraysToo.AssemblyInfoInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\obj\Debug\net6.0\listsArraysToo.AssemblyInfo.cs
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\obj\Debug\net6.0\listsArraysToo.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\obj\Debug\net6.0\listsArraysToo.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\obj\Debug\net6.0\refint\listsArraysToo.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\obj\Debug\net6.0\listsArraysToo.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\obj\Debug\net6.0\listsArraysToo.genruntimeconfig.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\listsArrays\listsArraysToo\obj\Debug\net6.0\ref\listsArraysToo.dll
