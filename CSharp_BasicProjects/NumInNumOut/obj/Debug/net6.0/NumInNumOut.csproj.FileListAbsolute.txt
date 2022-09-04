@@ -1,0 +1,15 @@
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\obj\Debug\net6.0\NumInNumOut.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\obj\Debug\net6.0\NumInNumOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\obj\Debug\net6.0\NumInNumOut.AssemblyInfoInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\obj\Debug\net6.0\NumInNumOut.AssemblyInfo.cs
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\obj\Debug\net6.0\NumInNumOut.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\bin\Debug\net6.0\NumInNumOut.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\bin\Debug\net6.0\NumInNumOut.deps.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\bin\Debug\net6.0\NumInNumOut.runtimeconfig.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\bin\Debug\net6.0\NumInNumOut.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\bin\Debug\net6.0\NumInNumOut.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\obj\Debug\net6.0\NumInNumOut.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\obj\Debug\net6.0\refint\NumInNumOut.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\obj\Debug\net6.0\NumInNumOut.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\obj\Debug\net6.0\NumInNumOut.genruntimeconfig.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\NumInNumOut\obj\Debug\net6.0\ref\NumInNumOut.dll

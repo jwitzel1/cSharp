@@ -1,0 +1,15 @@
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\obj\Debug\net6.0\oneAndTwenty.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\obj\Debug\net6.0\oneAndTwenty.GeneratedMSBuildEditorConfig.editorconfig
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\obj\Debug\net6.0\oneAndTwenty.AssemblyInfoInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\obj\Debug\net6.0\oneAndTwenty.AssemblyInfo.cs
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\obj\Debug\net6.0\oneAndTwenty.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\bin\Debug\net6.0\oneAndTwenty.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\bin\Debug\net6.0\oneAndTwenty.deps.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\bin\Debug\net6.0\oneAndTwenty.runtimeconfig.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\bin\Debug\net6.0\oneAndTwenty.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\bin\Debug\net6.0\oneAndTwenty.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\obj\Debug\net6.0\oneAndTwenty.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\obj\Debug\net6.0\refint\oneAndTwenty.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\obj\Debug\net6.0\oneAndTwenty.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\obj\Debug\net6.0\oneAndTwenty.genruntimeconfig.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\oneAndTwenty\obj\Debug\net6.0\ref\oneAndTwenty.dll
