@@ -1,0 +1,15 @@
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\bin\Debug\net6.0\classMethod3.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\bin\Debug\net6.0\classMethod3.deps.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\bin\Debug\net6.0\classMethod3.runtimeconfig.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\bin\Debug\net6.0\classMethod3.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\bin\Debug\net6.0\classMethod3.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\obj\Debug\net6.0\classMethod3.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\obj\Debug\net6.0\classMethod3.GeneratedMSBuildEditorConfig.editorconfig
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\obj\Debug\net6.0\classMethod3.AssemblyInfoInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\obj\Debug\net6.0\classMethod3.AssemblyInfo.cs
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\obj\Debug\net6.0\classMethod3.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\obj\Debug\net6.0\classMethod3.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\obj\Debug\net6.0\refint\classMethod3.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\obj\Debug\net6.0\classMethod3.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\obj\Debug\net6.0\classMethod3.genruntimeconfig.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\classMethod3\obj\Debug\net6.0\ref\classMethod3.dll
