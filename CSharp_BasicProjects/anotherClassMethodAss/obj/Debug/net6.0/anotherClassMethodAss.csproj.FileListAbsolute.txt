@@ -1,0 +1,15 @@
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\bin\Debug\net6.0\anotherClassMethodAss.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\bin\Debug\net6.0\anotherClassMethodAss.deps.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\bin\Debug\net6.0\anotherClassMethodAss.runtimeconfig.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\bin\Debug\net6.0\anotherClassMethodAss.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\bin\Debug\net6.0\anotherClassMethodAss.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\obj\Debug\net6.0\anotherClassMethodAss.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\obj\Debug\net6.0\anotherClassMethodAss.GeneratedMSBuildEditorConfig.editorconfig
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\obj\Debug\net6.0\anotherClassMethodAss.AssemblyInfoInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\obj\Debug\net6.0\anotherClassMethodAss.AssemblyInfo.cs
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\obj\Debug\net6.0\anotherClassMethodAss.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\obj\Debug\net6.0\anotherClassMethodAss.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\obj\Debug\net6.0\refint\anotherClassMethodAss.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\obj\Debug\net6.0\anotherClassMethodAss.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\obj\Debug\net6.0\anotherClassMethodAss.genruntimeconfig.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\anotherClassMethodAss\obj\Debug\net6.0\ref\anotherClassMethodAss.dll
