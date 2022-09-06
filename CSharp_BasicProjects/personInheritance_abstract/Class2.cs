@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace personInheritance
 {
-    public class Employee:Person
+    public class Employee : Person, IQuittable
     {
         public int EmpID { get; set; }
 
@@ -14,7 +14,9 @@ namespace personInheritance
         {
             var fullName = FName + " " + LName + ".";
             Console.WriteLine("Name: " + fullName);
+
         }
+        
     }
     
 }

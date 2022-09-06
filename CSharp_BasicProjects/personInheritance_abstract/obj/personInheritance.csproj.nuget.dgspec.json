@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\personInheritance\\personInheritance.csproj": {}
+    "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\personInheritance_abstract\\personInheritance.csproj": {}
   },
   "projects": {
-    "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\personInheritance\\personInheritance.csproj": {
+    "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\personInheritance_abstract\\personInheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\personInheritance\\personInheritance.csproj",
+        "projectUniqueName": "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\personInheritance_abstract\\personInheritance.csproj",
         "projectName": "personInheritance",
-        "projectPath": "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\personInheritance\\personInheritance.csproj",
+        "projectPath": "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\personInheritance_abstract\\personInheritance.csproj",
         "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\personInheritance\\obj\\",
+        "outputPath": "D:\\_jasons_stuff\\_fullStack_school\\CSharp\\cSharp\\CSharp_BasicProjects\\personInheritance_abstract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
