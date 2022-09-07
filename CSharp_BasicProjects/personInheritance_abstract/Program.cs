@@ -12,12 +12,9 @@ namespace personInheritance
         {
             Employee emp1 = new Employee() { FName = "Sample", LName = "Student" };
             emp1.SayName();
-            Employee emp2 = new Employee() { FName = "Johnny", LName = "Quitter" };
-            if (emp2.FName == "Johnny")
-            {
-                emp2.Quit();
-            
-            }
+            IQuittable emp2 = new Employee() { FName = "Johnny", LName = "Quitter" } ;
+            emp2.Quit("Johnny Quitter");
+
                 
         }
     }

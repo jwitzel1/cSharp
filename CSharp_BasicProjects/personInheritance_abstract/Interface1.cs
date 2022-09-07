@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace personInheritance
 {
-    public interface IQuittable
+    interface IQuittable
     {
-        public static void Quit()
-        {
-            Console.WriteLine("You just quit. Goodbye.");
-        }
+        //
+        void Quit(string fullName);
+                
     }
 }

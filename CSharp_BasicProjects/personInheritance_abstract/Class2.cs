@@ -16,6 +16,10 @@ namespace personInheritance
             Console.WriteLine("Name: " + fullName);
 
         }
+        public void Quit(string fullName)
+        {
+            Console.WriteLine("and ... I, " + fullName + " - Quit!");
+        }
         
     }
     

@@ -11,11 +11,6 @@ namespace personInheritance
         public string FName { get; set; }
         public string LName { get; set; }
 
-        //method SayName
-        public static void SayName() //need method use
-        {
-         
-        }
     }
    
 }
