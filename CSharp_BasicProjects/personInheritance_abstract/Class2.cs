@@ -20,7 +20,17 @@ namespace personInheritance
         {
             Console.WriteLine("and ... I, " + fullName + " - Quit!");
         }
-        
+
+        //==overload assignment 
+        public static bool operator ==(Employee x, Employee y)
+        {
+            if(x.EmpID == y.EmpID) { return true; } else { return false; }
+        }
+        public static bool operator !=(Employee x, Employee y)
+        {
+            if (x.EmpID == y.EmpID) { return false; } else { return true; }
+        }
+
     }
     
 }

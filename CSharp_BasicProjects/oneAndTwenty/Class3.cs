@@ -13,5 +13,17 @@ namespace oneAndTwenty
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
 
+        public static Game operator+ (Game, Player player)
+        {
+            Game.Players.Add(player);
+            return Game;
+        }
+
+        public static Game operator- (Game, Player player)
+        {
+            Game.Players.Remove(player);
+            return Game;
+        }
+
     }
 }
