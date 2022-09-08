@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace personInheritance
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
         public int EmpID { get; set; }
+        public List<T>? Things { get; set; }
 
         public  void SayName() //actual method use
         {
@@ -22,14 +23,14 @@ namespace personInheritance
         }
 
         //==overload assignment 
-        public static bool operator ==(Employee x, Employee y)
-        {
-            if(x.EmpID == y.EmpID) { return true; } else { return false; }
-        }
-        public static bool operator !=(Employee x, Employee y)
-        {
-            if (x.EmpID == y.EmpID) { return false; } else { return true; }
-        }
+        //public static bool operator ==(Employee x, Employee y)
+        //{
+        //    if(x.EmpID == y.EmpID) { return true; } else { return false; }
+        //}
+        //public static bool operator !=(Employee x, Employee y)
+        //{
+        //    if (x.EmpID == y.EmpID) { return false; } else { return true; }
+        //}
 
     }
     
