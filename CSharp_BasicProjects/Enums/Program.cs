@@ -8,40 +8,52 @@ using System.Threading.Tasks;
 
 class Program
 {
-    enum DaysOfWeek
+    //enum DaysOfWeek
+    //{
+    //    Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+    //}
+    public struct Number
     {
-        Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+        public decimal Amount;
     }
+
     static void Main(string[] args)
     {
-        string DaysOfWeekEntered;
-        Console.WriteLine("Enter the day of the week in full");
-       
+        Number mynumber = new Number();
+        mynumber.Amount = 10.01m;
 
-        try
-        {
-            DaysOfWeekEntered = Console.ReadLine();
-            DaysOfWeek dayEntered = (DaysOfWeek)Enum.Parse(typeof(DaysOfWeek), DaysOfWeekEntered);
-            Console.WriteLine("You picked " + dayEntered);
-            Console.ReadLine();
-        }
-        catch
-        {
-            Console.WriteLine("That is not a valid day of the week. Try again.");
-            Console.WriteLine("Enter the day of the week in full");
-            DaysOfWeekEntered = Console.ReadLine();
-            DaysOfWeek dayEntered = (DaysOfWeek)Enum.Parse(typeof(DaysOfWeek), DaysOfWeekEntered);
-            Console.WriteLine("You picked " + dayEntered);
-            Console.ReadLine();
-        }
-        finally
-        {
-            Console.WriteLine("Days of week are: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday");
-            Console.WriteLine("Enter the day of the week in full");
-            DaysOfWeekEntered = Console.ReadLine();
-            DaysOfWeek dayEntered = (DaysOfWeek)Enum.Parse(typeof(DaysOfWeek), DaysOfWeekEntered);
-            Console.WriteLine("You picked " + dayEntered);
-            Console.ReadLine();
-        }
+        Console.WriteLine("mynumber: {0}", mynumber.Amount);
+        
+
+
+        //string daysofweekentered;
+        //console.writeline("enter the day of the week in full");
+
+
+        //try
+        //{
+        //    daysofweekentered = console.readline();
+        //    daysofweek dayentered = (daysofweek)enum.parse(typeof(daysofweek), daysofweekentered);
+        //    console.writeline("you picked " + dayentered);
+        //    console.readline();
+        //}
+        //catch
+        //{
+        //    console.writeline("that is not a valid day of the week. try again.");
+        //    console.writeline("enter the day of the week in full");
+        //    daysofweekentered = console.readline();
+        //    daysofweek dayentered = (daysofweek)enum.parse(typeof(daysofweek), daysofweekentered);
+        //    console.writeline("you picked " + dayentered);
+        //    console.readline();
+        //}
+        //finally
+        //{
+        //    console.writeline("days of week are: monday, tuesday, wednesday, thursday, friday, saturday, sunday");
+        //    console.writeline("enter the day of the week in full");
+        //    daysofweekentered = console.readline();
+        //    daysofweek dayentered = (daysofweek)enum.parse(typeof(daysofweek), daysofweekentered);
+        //    console.writeline("you picked " + dayentered);
+        //    console.readline();
+        //}
     }
 }
