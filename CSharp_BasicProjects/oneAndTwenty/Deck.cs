@@ -11,21 +11,17 @@ namespace oneAndTwenty
         public Deck()
         {
             Cards = new List<Card>();
-            List<string> Suits = new List<string>() { "Hearts", "Clubs", "Diamonds", "Spades"};
-            List<string> Faces = new List<string>() { "Two", "Three", "Four", "Five", "Six",
-                                                        "Seven", "Eight", "Nine", "Ten", "Jack",
-                                                        "Queen", "King", "Ace" };
-
-            for (int i = 0; i < Suits.Count; i++)
+            for (int i = 0; i < 13; i++)
             {
-                for(int j = 0; j < Faces.Count; j++)
+                for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.Suit = Suits[i];
-                    card.Face = Faces[j];
-                    Cards.Add(card);    
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)j;
+                    Cards.Add(card);
                 }
             }
+           
         }
 
         public List<Card> Cards { get; set; }

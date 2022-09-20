@@ -11,21 +11,30 @@ namespace oneAndTwenty
     {
         static void Main(string[] args)
         {
-
-            TwentyOneGame game = new TwentyOneGame();
-            game.ListPlayers = new List<string>() { "p1", "p2", "p3" };
-            game.ListPlayers();
-            Console.ReadLine();
-
-            Deck deck = new Deck();
-            deck.Shuffle(3);          
-
-            foreach(Card card in deck.Cards)
+            Console.WriteLine("Welcome to the online Casino.  Lets start by telling me your name.");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("How much money did you bring today?");
+            int bank= Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello, {0}, Would you like to play One and Twenty now?", playerName);
+            string answer= Console.ReadLine().ToLower();
+            if (answer == "yes" || answer=="yeah" || answer=="ya" || answer == "y") 
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                Console.WriteLine("Setting up game now...");
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                Console.WriteLine("You are IN! ...");
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game-=player;
+                Console.WriteLine("Thank you for playing.");
             }
-            Console.WriteLine(deck.Cards.Count);
-            Console.ReadLine();
+            //chose not to play
+            Console.WriteLine("Feel free to look around for now....");
+            Console.Read();
         }
 
 

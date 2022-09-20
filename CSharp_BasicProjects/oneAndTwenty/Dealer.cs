@@ -11,6 +11,7 @@ namespace oneAndTwenty
         public string Name { get; set; }
         public int Balance { get; set; }
         public Deck Deck { get; set; }
+
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
