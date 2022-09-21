@@ -37,7 +37,7 @@ namespace oneAndTwenty
             }
             else
             {
-                for(int i=0; i<result.Length; i++)
+                for(int i=0; i<result.Length; i++) // will 3 aces not give value of 33 ?
                 {
                     value += (i * 10);
                     result[i]= value;

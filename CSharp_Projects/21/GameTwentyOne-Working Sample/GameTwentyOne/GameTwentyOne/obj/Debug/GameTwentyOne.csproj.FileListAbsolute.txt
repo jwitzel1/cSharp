@@ -1,0 +1,29 @@
+C:\Users\Student\Desktop\GitHub\CSharp-Exercises\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.exe.config
+C:\Users\Student\Desktop\GitHub\CSharp-Exercises\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.exe
+C:\Users\Student\Desktop\GitHub\CSharp-Exercises\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.pdb
+C:\Users\Student\Desktop\GitHub\CSharp-Exercises\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\CSharp-Exercises\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\GitHub\CSharp-Exercises\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.exe
+C:\Users\Student\Desktop\GitHub\CSharp-Exercises\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.pdb
+C:\Users\jmvan\Desktop\PuttingItAllTogether\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.exe.config
+C:\Users\jmvan\Desktop\PuttingItAllTogether\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.exe
+C:\Users\jmvan\Desktop\PuttingItAllTogether\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.pdb
+C:\Users\jmvan\Desktop\PuttingItAllTogether\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.csprojAssemblyReference.cache
+C:\Users\jmvan\Desktop\PuttingItAllTogether\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\jmvan\Desktop\PuttingItAllTogether\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.exe
+C:\Users\jmvan\Desktop\PuttingItAllTogether\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.pdb
+H:\Google Downloads\Work Stuff\GameTwentyOne-20220920T222408Z-001\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.exe.config
+H:\Google Downloads\Work Stuff\GameTwentyOne-20220920T222408Z-001\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.exe
+H:\Google Downloads\Work Stuff\GameTwentyOne-20220920T222408Z-001\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.pdb
+H:\Google Downloads\Work Stuff\GameTwentyOne-20220920T222408Z-001\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.csproj.AssemblyReference.cache
+H:\Google Downloads\Work Stuff\GameTwentyOne-20220920T222408Z-001\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.csproj.CoreCompileInputs.cache
+H:\Google Downloads\Work Stuff\GameTwentyOne-20220920T222408Z-001\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.exe
+H:\Google Downloads\Work Stuff\GameTwentyOne-20220920T222408Z-001\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_Projects\21\GameTwentyOne-Working Sample\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.exe.config
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_Projects\21\GameTwentyOne-Working Sample\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_Projects\21\GameTwentyOne-Working Sample\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_Projects\21\GameTwentyOne-Working Sample\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_Projects\21\GameTwentyOne-Working Sample\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.csproj.SuggestedBindingRedirects.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_Projects\21\GameTwentyOne-Working Sample\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_Projects\21\GameTwentyOne-Working Sample\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_Projects\21\GameTwentyOne-Working Sample\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.pdb
