@@ -1,0 +1,15 @@
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\bin\Debug\net6.0\exceptions.exe
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\bin\Debug\net6.0\exceptions.deps.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\bin\Debug\net6.0\exceptions.runtimeconfig.json
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\bin\Debug\net6.0\exceptions.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\bin\Debug\net6.0\exceptions.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\obj\Debug\net6.0\exceptions.csproj.AssemblyReference.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\obj\Debug\net6.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfoInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfo.cs
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\obj\Debug\net6.0\exceptions.csproj.CoreCompileInputs.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\obj\Debug\net6.0\exceptions.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\obj\Debug\net6.0\refint\exceptions.dll
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\obj\Debug\net6.0\exceptions.pdb
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\obj\Debug\net6.0\exceptions.genruntimeconfig.cache
+D:\_jasons_stuff\_fullStack_school\CSharp\cSharp\CSharp_BasicProjects\exceptions\obj\Debug\net6.0\ref\exceptions.dll
