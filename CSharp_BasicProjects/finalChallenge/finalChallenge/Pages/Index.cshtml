@@ -1,0 +1,40 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+@{
+    var timeNow = DateTime.Now;
+}
+<div class="text-center">
+    <h1 class="display-4">Time and Space - well, at least time.</h1>
+
+    <h2> It is now @timeNow </h2>
+    <p> <blockquote>
+        I needed somebody to talk to
+        <br />So I called up the operator of time
+        <br />Just to hear a voice of some kind
+        <br />When you hear the beep
+        <br />It will be three o'clock
+        <br />She said that for over an hour
+        <br />And I hung up
+       <br />-&nbsp; <cite>Bob Dylan</cite>
+       <br /><b>At the beep, it will be @DateTime.Now.Hour O'Clock</b>
+        </blockquote>
+    </p>
+    <br /><p>
+    DateTime.Now :<br />The current date and time, on the computer running the program using this object. <br />
+
+    <br /><br />
+     Event handler: <br />A routine or command that is explitly called when a specific event, or events, are initiated in a program - usually by the user of the program. Examples would be loading a new page on the 'click'(the event) of a button. 
+    <br /><br />
+     Handler method (Razor): <br />Automatically exucuted methods resulting from a request.  By default, matches the HTTP verb with an 'On' prefix.  Optionally can suffix with Async if using asynchronous code.
+     <br />OnPost: a method automatically executed when the page /user posts.  
+     <br />OnGet: like OnPost, automatically executed when the page / user uses Get on a form or submission.
+        <br /><br />
+     Void: <br /> When a method does not return any value(s).  There is literally a void in the return result.
+        <br /><br />
+
+
+    </p>
+</div>
